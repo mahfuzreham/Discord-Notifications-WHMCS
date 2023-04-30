@@ -1,4 +1,4 @@
-# Discord-Notifications-WHMCS
+# Discord Notifications WHMCS
 
 
 Discord notifications are a powerful tool for managing customer communication in WHMCS. With Discord, you can easily keep track of customer inquiries and help them resolve their issues quickly and effectively. The ability to create custom notifications allows you to tailor the information that is sent out according to your preferences, so that customers get only the most relevant updates regarding their account status or any other changes they need to be aware of. Additionally, Discord also provides an easy way for customers to contact support staff directly from within the platform itself – making it easier than ever before for users who may have questions about specific products or services offered on WHMCS. 
