@@ -1,9 +1,9 @@
 <?php
 
-///////////////////////// Provided For Free By /////////////////////////
+///////////////////////// Me@MahfuzReham.Com /////////////////////////
 //                                                                    //
-//            PrimeNodes - Premium Infrastructure Provider            //
-//                William Phillips - MetallicGloss.com                //
+//                                                                    //
+//                MD Mahfuz Reham - www.MahfuzReham.Com              //
 //                                                                    //
 ////////////////////////////////////////////////////////////////////////
 
@@ -15,11 +15,11 @@
 // NOTE: Be careful not to accidentily remove any of the " characters when copying and pasting details into the script.
 
 // Your Discord WebHook URL.
-$GLOBALS['discordWebHookURL'] = "https://discordapp.com/api/webhooks/1008630343315767326/rCF55Q1tQhO_-Mi4S4_aVL9umFF_yZ4g0nbOvGG89A-_AhXESG_HxcFevZZpJmFFW1JG";
+$GLOBALS['discordWebHookURL'] = "https://Mahfuzreham.com/webhook";
 // Note: Please be aware that the channel that you select when creating the web hook will be where the messages are sent.
 
 // Your WHMCS Admin URL.
-$GLOBALS['whmcsAdminURL'] = "https://my.hostmdn.com/sysmin/";
+$GLOBALS['whmcsAdminURL'] = "https://Yoursystem.Com";
 // Note: Please include the end / on your URL. An example of an accepted link would be: https://account.whmcs.com/admin/
 
 // Your Company Name.
